@@ -1,0 +1,18 @@
+.footer-bg{
+    background-color: rgba(0, 0, 0, 0.963);
+}
+.footer-flex{
+    display: flex;
+    gap: 50px;
+}
+.box1-desc{
+    padding: 30px 30px;
+    /* color: aliceblue; */
+}
+.box2-list{
+    list-style: none;
+}
+.box2-list a{
+ text-decoration: none;
+ color: aliceblue;
+}

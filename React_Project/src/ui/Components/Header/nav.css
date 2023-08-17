@@ -1,0 +1,11 @@
+.nav-link:hover{
+    color: green !important;
+}
+.Site-header-section{
+    display: flex;
+   justify-content: flex-end;
+   gap: 30px;
+}
+a:hover{
+    color: green !important;
+}

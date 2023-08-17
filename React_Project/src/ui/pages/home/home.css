@@ -1,0 +1,43 @@
+.bgimg{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(128, 128, 128, 0.215);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    position: relative;
+}
+.bestproduct{
+    display: flex;
+    position: absolute;
+    top: 120px;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+.flexbox1{
+    flex: 1;
+    padding-left: 70px;
+}
+.flexbox1 img{
+    width: 100%;
+    height: 100%;
+}
+
+.flexbox2{
+    flex: 1;
+    padding-right: 30px;
+    width:fit-content
+}
+.flexbox2 .head1 h3{
+    font-weight: bold;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.flexbox2 .head2 h1{
+    font-weight: bolder;
+    font-size: 60px;
+    padding-bottom: 20px;
+}

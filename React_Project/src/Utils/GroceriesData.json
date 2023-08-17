@@ -1,0 +1,51 @@
+[
+  {
+    "img": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/coffee-asorted.jpg",
+    "title": "Groceries",
+    "text": "Assorted Coffee",
+    "price" : "£35.00"
+  },
+  {
+    "img": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/sanitizer-400x400.jpg",
+    "title": "juice",
+    "text": "Hand Sanitizer",
+     "price" : "£15.00"
+  },
+  {
+    "img": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/red-chillies-400x400.jpg",
+    "title": "Groceries",
+    "text": "Handpicked Red Chillies",
+     "price" : "£19.00"
+  },
+  {
+    "img": "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/edible-oil-400x400.jpg",
+    "title": "Groceries",
+    "text": "Natural Extracted Edible Oil",
+     "price" : "£42.00"
+  },
+  {
+    "img" : "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/coffee-asorted-400x400.jpg",
+    "title" :"Groceries",
+    "text" :"Assorted Coffee",
+  "price" :"42.00"
+  },
+  {
+     "img" : "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/orage-juice-kariz-400x400.jpg",
+    "title" :"Groceries",
+    "text" :"Fresh Orange Juice",
+  "price" :"42.00"
+  },
+  {
+     "img" : "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/sanitizer-400x400.jpg",
+    "title" :"Groceries",
+    "text" :"Hand Sanitizer",
+  "price" :"42.00"
+  },
+  {
+     "img" : "https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2018/06/red-chillies-400x400.jpg",
+    "title" :"Groceries",
+    "text" :"Handpicked Red Chillies",
+  "price" :"42.00"
+  }
+
+]
